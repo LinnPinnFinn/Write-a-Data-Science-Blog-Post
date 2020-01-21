@@ -30,7 +30,7 @@ Required packages:
 - **'survey_schema.csv'**: data file with survey schema, showing if respondents have been excluded from certain questions based on answers to other questions
 
 ## Summary of Results
-Overall, the data we have used help to answer the questions we wanted to explore. We can learn by looking at what kind of education data scientists active in the industry have, what learning platforms they use to improve their data science skills and the level of compensation they have, to understand what kind of education is attractive and what level of compensation it could result in. We also explored what programming language to focus on, by using responses from data scientists directly, of which programming language they would recommend an aspiring data scientist to learn first. Lastly, we saw that there is bias in which programming languages the resondents would recoomend to learn, specifically for Python and R.
+Overall, the data we have used help to answer the questions we wanted to explore. We can learn by looking at what kind of education data scientists active in the industry have, what learning platforms they use to improve their data science skills and the level of compensation they have, to understand what kind of education is attractive and what level of compensation it could result in. We also explored what programming language to focus on, by using responses from data scientists directly, of which programming language they would recommend an aspiring data scientist to learn first. Lastly, we saw that there is bias in which programming languages the resondents would recommend to learn, especially for Python and R.
 
 To get more in-depth information on the results, check out the accompanying blog post.
 

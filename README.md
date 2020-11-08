@@ -1,5 +1,5 @@
 # Write a Data Science Blog Post
-Project part of Udacity's Data Science Nanodegree
+Project part of Udacity's Data Scientist Nanodegree
 
 ## Project Motivation
 As an aspiring data scientist myself, I am interested in understanding what to focus on when trying to break into the data science industry. To understand this better, I am trying answer some questions related to this with the help of survey data from Kaggle's yearly DS & ML survey for 2019:
